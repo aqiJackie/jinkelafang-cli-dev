@@ -1,6 +1,6 @@
 {
   "name": "@jinkelafang-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "jinkelafang-cli-dev core",
   "author": "Jackie <dasiy0503@163.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "jackie-cli-lib": "^1.0.0"
   },
-  "gitHead": "f9ba6a1a240e0f767a3c6489a875908c5cf7300d"
+  "gitHead": "d310fa59c9a527300cfb4ba6201aff4278efede5"
 }
