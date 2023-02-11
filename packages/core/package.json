@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmmirror.com/"
+    "access": "public"
   },
   "scripts": {
     "test": "echo 'ffff'"
@@ -22,5 +22,5 @@
   "dependencies": {
     "jackie-cli-lib": "^1.0.0"
   },
-  "gitHead": "b48a5d3af764ffd77f6d1bdfdceb900fb1b66476"
+  "gitHead": "ad9d643b3df5ff618e968bafe4f77f5c9f80c394"
 }
