@@ -1,0 +1,25 @@
+{
+  "name": "@jinkelafang-cli-dev/utils",
+  "version": "1.0.0",
+  "description": "jinkelafang-cli-dev utils",
+  "author": "Jackie <dasiy0503@163.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "scripts": {
+    "test": "echo 'uuuu'"
+  },
+  "dependencies": {
+   
+  }
+}
