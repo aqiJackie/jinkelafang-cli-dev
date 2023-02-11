@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "jackie-cli-lib": "^1.0.0"
-  }
+  },
+  "gitHead": "f9ba6a1a240e0f767a3c6489a875908c5cf7300d"
 }
